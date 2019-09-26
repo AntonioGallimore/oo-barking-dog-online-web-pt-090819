@@ -9,6 +9,6 @@ fido = Dog.new
 
 fido.name = "Fido"
 
-fido.namebark
+fido.name
 
-fido.
+fido.bark
