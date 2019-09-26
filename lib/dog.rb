@@ -4,4 +4,5 @@ class Dog
   end
   def name
     puts "#{name}"
+  end
 end
