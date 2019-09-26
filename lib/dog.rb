@@ -6,3 +6,4 @@ class Dog
     puts "#{name}"
   end
 end
+fido.name = "Fido"
