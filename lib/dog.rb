@@ -8,3 +8,4 @@ class Dog
     puts "Fido"
   end
 end
+end
